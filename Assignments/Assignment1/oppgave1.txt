@@ -1,0 +1,10 @@
+// CHRISTIAN LE - MTTK - OVING_0 og OVING_1
+
+def isFibonacciNumber(n):
+    a = 0
+    b = 1
+    while b < n:
+        temp = b
+        b += a
+        a = temp
+    return b == n

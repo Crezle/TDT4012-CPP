@@ -1,0 +1,7 @@
+a)
+
+Den vil printe ut 5 ettersom v0 variabelen aldri ble endret. Resultatet
+fra den første funksjonen ble lagt inn i "result".
+
+b)
+

@@ -1,0 +1,8 @@
+{
+    "tdt4102.isProjectFolder": true,
+    "files.associations": {
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "xstring": "cpp"
+    }
+}

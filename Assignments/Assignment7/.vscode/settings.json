@@ -1,0 +1,8 @@
+{
+    "tdt4102.isProjectFolder": true,
+    "files.associations": {
+        "random": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp"
+    }
+}

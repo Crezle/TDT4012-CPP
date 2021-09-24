@@ -1,0 +1,6 @@
+TDT4100,ITGK Grunnkurs
+TDT4101,Instrumentering og m†leteknikk
+TDT4102,Prosedyre- og objektorientert programmering
+TMA4100,Matematikk 1
+TMA4105,Matematikk 2
+TMA4115,Matematikk 3
