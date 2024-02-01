@@ -1,3 +1,3 @@
 # TDT4012
 
-This repository contains my "Prosedyre- og objektorientert programmering" assignments.
+This repository contains my "Procedure- and Object Oriented Programming" assignments.
